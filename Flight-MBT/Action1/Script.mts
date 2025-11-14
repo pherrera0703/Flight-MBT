@@ -4,7 +4,7 @@
 a=Parameter("Username")
 b=Parameter("Password")
 
-'Start the Flight GUI Appolication
+'Start the Flight GUI Application
 ' SystemUtil.Run "C:\Program Files (x86)\Micro Focus\UFT One\samples\Flights Application\FlightsGUI.exe"
 SystemUtil.Run "C:\Program Files (x86)\OpenText\Functional Testing\samples\Flights Application\FlightsGUI.exe
 
