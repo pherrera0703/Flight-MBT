@@ -20,7 +20,7 @@ End If
 
 WpfWindow("OpenText MyFlight Sample Application").WpfComboBox("fromCity").Select a @@ hightlight id_;_2135054328_;_script infofile_;_ZIP::ssf4.xml_;_
 WpfWindow("OpenText MyFlight Sample Application").WpfComboBox("toCity").Select b @@ hightlight id_;_1948026184_;_script infofile_;_ZIP::ssf8.xml_;_
-WpfWindow("OpenText MyFlight Sample Application").WpfCalendar("datePicker").SetDate c @@ hightlight id_;_2135059656_;_script infofile_;_ZIP::ssf10.xml_;_
+WpfWindow("OpenText MyFlight Sample Application").WpfCalendar("datePicker").SetDate "19-Dec-2026" @@ hightlight id_;_2135059656_;_script infofile_;_ZIP::ssf10.xml_;_
 WpfWindow("OpenText MyFlight Sample Application").WpfComboBox("Class").Select d
 WpfWindow("OpenText MyFlight Sample Application").WpfComboBox("numOfTickets").Select e
 WpfWindow("OpenText MyFlight Sample Application").WpfButton("FIND FLIGHTS").Click
